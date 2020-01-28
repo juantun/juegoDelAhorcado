@@ -72,7 +72,7 @@ public class Ahorcado {
 	 * 
 	 * @param palabra
 	 * @param parcial
-	 * @param letra
+	 * @param  letra
 	 * @return
 	 */
 	public static boolean comprobarLetraPalabra(char[] palabra, char[] parcial, char letra) {
